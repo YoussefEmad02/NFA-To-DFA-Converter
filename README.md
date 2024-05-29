@@ -1,4 +1,4 @@
-# CFG to PDA
+# NFA to DFA
 
 ## Table of Contents
 1. [Convert any non-deterministic finite automaton to deterministic finite automaton](#convert-any-non-deterministic-finite-automaton-to-deterministic-finite-automaton)
